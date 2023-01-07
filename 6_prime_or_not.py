@@ -14,4 +14,3 @@ if number > 1:
 # then it is not prime number
 else:
     print(number, "is not a prime number")
-
